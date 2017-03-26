@@ -25,7 +25,7 @@ SECRET_KEY = 'c87=kczguivp#led=7&x*&!2lr29dtji$j5db2(w#%@cg86*b&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [http://elavalverde.pythonanywhere.com/]
+ALLOWED_HOSTS = ['http://elavalverde.pythonanywhere.com/']
 
 
 # Application definition
